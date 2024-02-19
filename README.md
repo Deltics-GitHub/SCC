@@ -16,7 +16,8 @@ Sysmon Control Center is a tool that helps you deploy Sysmon64.exe and the XML s
 *  Save the file and close Notepad
 *  Run SCC with the command: `.\SysmonControlCenter.ps1`
 
-![image](https://github.com/golnebo/SCC/assets/18641580/518b65b6-005e-466d-9e59-9750802c3b7e)
+![image](https://github.com/Tako-Z/SCC/assets/160493024/0e49060a-6a40-4fe7-bebf-1eeba25f679d)
+
 
 * Fill in all the empty white fields
   * _Set config path_ : Enter the path from where SCC can copy the XML config file. Use the path and the full name. (`\\server\share\config.xml`). 
